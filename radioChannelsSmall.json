@@ -1,0 +1,80 @@
+{  
+   "venue":{  
+   "channels":[
+      {
+         "id":"7soul",
+         "title":"Seven Inch Soul",
+         "description":"Vintage soul tracks from the original 45 RPM vinyl.",
+         "dj":"Dion Watts Garcia",
+         "djmail":"dion@somafm.com",
+         "genre":"oldies",
+         "image":"https://api.somafm.com/img/7soul120.png",
+         "largeimage":"https://api.somafm.com/logos/256/7soul256.png",
+         "xlimage":"https://api.somafm.com/logos/512/7soul512.png",
+         "twitter":"SevenInchSoul",
+         "updated":"1396144686",
+         "playlists":[
+            {
+               "url":"https://api.somafm.com/7soul130.pls",
+               "format":"aac",
+               "quality":"highest"
+            },
+            {
+               "url":"https://api.somafm.com/7soul.pls",
+               "format":"mp3",
+               "quality":"high"
+            },
+            {
+               "url":"https://api.somafm.com/7soul64.pls",
+               "format":"aacp",
+               "quality":"high"
+            },
+            {
+               "url":"https://api.somafm.com/7soul32.pls",
+               "format":"aacp",
+               "quality":"low"
+            }
+         ],
+         "listeners":"103",
+         "lastPlaying":"The Broadways - You Just Don't Know"
+      },
+      {
+         "id":"bagel",
+         "title":"BAGeL Radio",
+         "description":"What alternative rock radio should sound like. ",
+         "dj":"Bagel Ted",
+         "djmail":"ted@somafm.com",
+         "genre":"alternative|rock",
+         "image":"https://api.somafm.com/img/bagel120.png",
+         "largeimage":"https://api.somafm.com/logos/256/bagel256.jpg",
+         "xlimage":"https://api.somafm.com/logos/512/bagel512.jpg",
+         "twitter":"BAGeL_SomaFM",
+         "updated":"1353190673",
+         "playlists":[
+            {
+               "url":"https://api.somafm.com/bagel130.pls",
+               "format":"aac",
+               "quality":"highest"
+            },
+            {
+               "url":"https://api.somafm.com/bagel.pls",
+               "format":"mp3",
+               "quality":"high"
+            },
+            {
+               "url":"https://api.somafm.com/bagel64.pls",
+               "format":"aacp",
+               "quality":"high"
+            },
+            {
+               "url":"https://api.somafm.com/bagel32.pls",
+               "format":"aacp",
+               "quality":"low"
+            }
+         ],
+         "listeners":"178",
+         "lastPlaying":"Bettie Serveert - Tom Boy"
+      }
+   ]
+}
+}
