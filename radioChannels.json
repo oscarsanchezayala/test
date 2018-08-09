@@ -1,4 +1,5 @@
-{
+{  
+   "venue":{  
    "channels":[
       {
          "id":"7soul",
@@ -1345,4 +1346,5 @@
          "lastPlaying":"WITCHTRAP - Power Of The Maul"
       }
    ]
+}
 }
