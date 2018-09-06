@@ -21,7 +21,7 @@
                "label":"main"
             }
          ],
-         "randomColor":"3"
+         "randomColor":3
       },
       {
          "id":"LAXP002",
@@ -44,7 +44,7 @@
                "label":"main"
             }
          ],
-         "randomColor":"4"
+         "randomColor":4
       }
    ]
 
