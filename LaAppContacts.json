@@ -1,0 +1,55 @@
+{  
+   "items":[
+      {
+         "id":"LAXP001",
+         "fullName":"Adair Pipopen",
+         "initials":"AD",
+         "phoneNumbers":[
+            {
+               "id":"2345-43234-4543",
+               "stringValue":"+52 1 (55) 1866 3344",
+               "label":"mobile"
+            }
+         ],
+         "company":"",
+         "imageData":nil,
+         "image":"",
+         "imageURL100":"",
+         "imageURLXL":"",
+         "emailAdresses":[
+            {
+               "id":"1234",
+               "stringValue":"adair@mail.com",
+               "label":"main"
+            }
+         ],
+         "randomColor":"3"
+      },
+      {
+         "id":"LAXP002",
+         "fullName":"Liz Orozco",
+         "initials":"LI",
+         "phoneNumbers":[
+            {
+               "id":"23454321212",
+               "stringValue":"+52 1 (55) 1999 2244",
+               "label":"mobile"
+            }
+         ],
+         "company":"",
+         "imageData":nil,
+         "image":"",
+         "imageURL100":"",
+         "imageURLXL":"",
+         "emailAdresses":[
+            {
+               "id":"1254",
+               "stringValue":"liz@mail.com",
+               "label":"main"
+            }
+         ],
+         "randomColor":"4"
+      },
+   ]
+
+}
