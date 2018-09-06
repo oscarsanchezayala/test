@@ -12,7 +12,7 @@
             }
          ],
          "company":"",
-         "imageData":nil,
+         "imageData":"",
          "image":"",
          "imageURL100":"",
          "imageURLXL":"",
@@ -37,7 +37,7 @@
             }
          ],
          "company":"",
-         "imageData":nil,
+         "imageData":"",
          "image":"",
          "imageURL100":"",
          "imageURLXL":"",
@@ -49,7 +49,7 @@
             }
          ],
          "randomColor":"4"
-      },
+      }
    ]
 
 }
